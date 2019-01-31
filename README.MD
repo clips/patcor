@@ -1,7 +1,8 @@
 # PATCOR
 ## A command and control corpus for the card game Patience in Dutch
 
-This is the download page for the PATCOR corpus, as referenced in the paper...
+This is the download page for the PATCOR corpus, as referenced in the paper [https://arxiv.org/abs/1901.10680](Van de Loo et al. (2019)
+Effective weakly supervised semantic frame induction using expression sharing in hierarchical hidden Markov models)
 
 Due to the size of the corpus (8.7G unpacked), we offer it as a direct download from:
 [https://www.clips.uantwerpen.be/patcor.zip](https://www.clips.uantwerpen.be/patcor.zip)
